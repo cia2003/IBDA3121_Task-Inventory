@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489229943794",
+    "project_id": "taskinventory-c64ed",
+    "storage_bucket": "taskinventory-c64ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489229943794:android:310734295cb95d16dc216b",
+        "android_client_info": {
+          "package_name": "com.mobileapps.taskinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYS8rx8wfOe8MHTLoLSxry8vf4IIodnG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
