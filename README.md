@@ -5,6 +5,10 @@ This project was migrated from Firebase-based storage to fully offline storage u
 
 ---
 
+## 🚀 Full Video Demonstration
+[![Watch the video](./assets/thumbnail-video-taskInventory.png)](https://drive.google.com/file/d/1MBjgNkkbtIiXKqOhhLExr-AYQQd57zrp/view?usp=sharing)
+---
+
 ## 🚀 Tech Stack
 
 - Kotlin
