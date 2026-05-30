@@ -147,7 +147,7 @@ This ensures consistency across UI and database queries
 ==============
 
 ### Debug Build (Current)
-Build → Build Bundle(s) / APK(s) → Build APK(s)
+Build → Generate Bundle(s) / APK(s) → Generate APK(s)
 
 Then locate:
 app/build/outputs/apk/debug/app-debug.apk
